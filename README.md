@@ -1,16 +1,21 @@
 ## Hi there 👋
+Hi everyone! My name is Tejashree R from Bangalore.
+🚀 **Aspiring Data Scientist | AI & Machine Learning Enthusiast**  
 
-<!--
-**tejzx/tejzx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💡 Passionate about building AI-driven solutions and data-driven applications.  
+📊 Skilled in **Machine Learning, Data Analysis, and Web Development**.  
 
-Here are some ideas to get you started:
+### 💻 **Tech Stack & Skills:**  
+- **Programming Languages:** Python, HTML, CSS  
+- **Data Science & ML:** NumPy, Pandas, Scikit-Learn, Machine Learning Models  
+- **Tools & Platforms:** Excel, Jupyter Notebook, GitHub  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📈 Currently enhancing my expertise in **Deep Learning & AI applications**.  
+🌱 Open to collaboration on **data science & AI projects**.  
+
+📫 **Let's Connect:**  
+🔗 [LinkedIn](https://www.linkedin.com/in/tejashree-r-a2518324b/)  
+📫 How to reach me: reachteju10@gmail.com 
+😄 Pronouns: she/her
+⚡ Fun fact: I write contents regarding enviornment and sustaible lifestyle and post it on Earth5R
+📍 **"Transforming data into actionable insights!"**  
