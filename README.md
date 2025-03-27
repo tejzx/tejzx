@@ -16,6 +16,6 @@ Hi everyone! My name is Tejashree R from Bangalore.
 📫 **Let's Connect:**  
 🔗 [LinkedIn](https://www.linkedin.com/in/tejashree-r-a2518324b/)  
 📫 How to reach me: reachteju10@gmail.com 
-😄 Pronouns: she/her
+
 ⚡ Fun fact: I write contents regarding enviornment and sustaible lifestyle and post it on Earth5R
 📍 **"Transforming data into actionable insights!"**  
