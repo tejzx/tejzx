@@ -18,4 +18,5 @@ Hi everyone! My name is Tejashree R from Bangalore.
 📫 How to reach me: reachteju10@gmail.com 
 
 ⚡ Fun fact: I write contents regarding enviornment and sustaible lifestyle and post it on Earth5R
+
 📍 **"Transforming data into actionable insights!"**  
